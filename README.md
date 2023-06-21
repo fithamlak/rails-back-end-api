@@ -132,7 +132,7 @@ open terminal and run
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/fithamlak/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/fithamlak/rails-back-end-api/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
